@@ -1,0 +1,42 @@
+h1 {
+ color: black;
+  font-size: 75px
+}
+#navlist li {
+  display: inline-block;
+  width:400px;
+}
+body {
+  background-image: url(http://img13.deviantart.net/3ac4/i/2012/045/5/f/simple_yellow_background_by_anya82-d4pref5.jpg );
+  font-size: 30px
+}
+#navlink1 {
+  background-color: grey;
+  text-align: center;
+}
+#navlink2 {
+  background-color: red;
+  text-align:center;
+}
+#navlink3 {
+  background-color: grey;
+  text-align: center;
+}
+#main {
+width:75%;
+margin: 20px
+font-size:12px
+font-style:oblique;
+}
+#bean1 {
+  float:right;
+}
+#menulist {
+  text-align: center;
+}
+#image2 {
+  float: right;
+}
+#image3 {
+  float:right;
+}
